@@ -17,17 +17,4 @@ Siempre va a iniciar el jugador con la ficha seleccionada y posteriormente la ap
 
 Para la creación de esta app se utilizo principalmente la libreria base de flutter import 'package:flutter/material.dart'; y CustomPainter para dibujar las fichas de X y O, las líneas del tablero y la línea blanca que marca la jugada ganadora, sin necesidad de imagenes adicionales. 
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video de demostración de funcionamiento: https://drive.google.com/file/d/1K7xU5upw6auPjo5JM1BAI9z5_wmIom6p/view?usp=drive_link
